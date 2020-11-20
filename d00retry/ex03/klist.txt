@@ -1,0 +1,6 @@
+Credentials cache: API:3B134F72-3A56-4152-99F9-B8F084F61037
+        Principal: celias@42.FR
+
+  Issued                Expires               Principal
+Jul  2 14:47:55 2018  Jul  9 14:47:52 2018  krbtgt/42.FR@42.FR
+Jul  2 14:53:57 2018  Jul  9 14:47:52 2018  host/vgs-fn1.42.fr@42.FR
